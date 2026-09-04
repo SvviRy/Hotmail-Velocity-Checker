@@ -22,7 +22,7 @@ The program is fully optimized for quick startup on Windows systems:
 ## 📸 Showcase
 
 
-![Program Preview](image_path.png)
+![Program Preview](image.png)
 
 
 
